@@ -1,0 +1,6 @@
+<?php
+
+if( !defined('IN_APP') )
+{
+	die('Khai Phan, GTFO!!');
+}
